@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/~karlclement/womti.com/';
+$config['base_url']	= 'http://localhost/';
 
 /*
 |--------------------------------------------------------------------------
