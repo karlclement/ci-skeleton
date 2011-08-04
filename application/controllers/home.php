@@ -6,10 +6,10 @@ class Home extends CI_Controller {
 	
 	public function index() {
 		$data = array (
-			'page_title' => 'a',
-			'page_keywords' => 'b',
-			'page_author' => 'c',
-			'page_description' => 'd'
+			'page_title' => '',
+			'page_keywords' => '',
+			'page_author' => '',
+			'page_description' => ''
 		);
 		$this->load->view('head', $data);
 		$this->load->view('home-page', $data);
@@ -17,5 +17,5 @@ class Home extends CI_Controller {
 	}
 
 }
-/* End of file welcome.php */
-/* Location: ./application/controllers/welcome.php */
+/* End of file home.php */
+/* Location: ./application/controllers/home.php */
