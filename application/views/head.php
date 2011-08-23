@@ -22,9 +22,9 @@
 	
 	<!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="<? base_url(); ?>include/style/base.css">
-	<link rel="stylesheet" href="<? base_url(); ?>include/style/skeleton.css">
-	<link rel="stylesheet" href="<? base_url(); ?>include/style/layout.css">
+	<link rel="stylesheet" href="<? base_url(); ?>include/css/base.css">
+	<link rel="stylesheet" href="<? base_url(); ?>include/css/skeleton.css">
+	<link rel="stylesheet" href="<? base_url(); ?>include/css/layout.css">
 	
 	<!-- Favicons
 	================================================== -->
